@@ -31,7 +31,7 @@ Of the total number of EV/PHEV sold in Australia, there has been a near-even dis
 The number of EV/PHEV charging stations across Australia has increased over time, relative to the number of EV/PHEV vehicles sold. The number of charging stations per state is also relative to each state's total population. However, there seems to be a shortage of charging stations in South Australia, as a result of the large number of EV/PHEV vehicles sold in the state.
 
 <p align="center">
-  <img src="https://github.com/mnperic/australian-electric-vehicle-sales/blob/main/HTML/fig_3.html" alt="fig_5"/>
+  <img src="https://github.com/mnperic/australian-electric-vehicle-sales/blob/main/HTML/fig_5.html" alt="fig_5"/>
 </p>
 
 ## Global Vehicle Sales
