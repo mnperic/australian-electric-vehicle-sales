@@ -9,13 +9,13 @@ The premise of this study was to analyse <b>electric vehicle (EV) and plug-in hy
 Since 2011, there has been a <b>steady upward trend</b> in EV/PHEV vehicle purchases in Australia.
 
 <p align="center">
-  <img src="https://github.com/mnperic/australian-electric-vehicle-sales/blob/main/HTML/fig_1.html" alt="fig_1"/>
+  <img src="https://github.com/mnperic/australian-electric-vehicle-sales/blob/main/Images/fig_1.png" alt="fig_1"/>
 </p>
 
 However, this gradual upward trend in EV/PHEV sales pales in comparison to the total number of vehicles sold in Australia.
 
 <p align="center">
-  <img src="https://github.com/mnperic/australian-electric-vehicle-sales/blob/main/HTML/fig_2.html" alt="fig_2"/>
+  <img src="https://github.com/mnperic/australian-electric-vehicle-sales/blob/main/Images/fig_2.png" alt="fig_2"/>
 </p>
 
 ### Australian EV/PHEV Sales - State
@@ -23,7 +23,7 @@ However, this gradual upward trend in EV/PHEV sales pales in comparison to the t
 Of the total number of EV/PHEV sold in Australia, there has been a near-even distribution of sales amongst the states. However, as seen in the chart below, there has been a surge in EV/PHEV sales in South Australia (SA) and the Australian Capital Territory (ACT) – perhaps due to the implementation of battery-energy infrastructure in these regions. 
 
 <p align="center">
-  <img src="https://github.com/mnperic/australian-electric-vehicle-sales/blob/main/HTML/fig_3.html" alt="fig_3"/>
+  <img src="https://github.com/mnperic/australian-electric-vehicle-sales/blob/main/Images/fig_3.png" alt="fig_3"/>
 </p>
 
 ### Charging Stations - Australia
@@ -31,15 +31,15 @@ Of the total number of EV/PHEV sold in Australia, there has been a near-even dis
 The number of EV/PHEV charging stations across Australia has increased over time, relative to the number of EV/PHEV vehicles sold. The number of charging stations per state is also relative to each state's total population. However, there seems to be a shortage of charging stations in South Australia, as a result of the large number of EV/PHEV vehicles sold in the state.
 
 <p align="center">
-  <img src="https://github.com/mnperic/australian-electric-vehicle-sales/blob/main/HTML/fig_5.html" alt="fig_5"/>
+  <img src="https://github.com/mnperic/australian-electric-vehicle-sales/blob/main/Images/fig_5.png" alt="fig_5"/>
 </p>
 
-## Global Vehicle Sales
+## Global EV/PHEV Sales
 
 Although there is an upward trend in EV/PHEV sales in Australia, this trend pales in comparison to the uptake of EV/PHEV vehicles globally. 
 
 <p align="center">
-  <img src="https://github.com/mnperic/australian-electric-vehicle-sales/blob/main/HTML/fig_4.html" alt="fig_4"/>
+  <img src="https://github.com/mnperic/australian-electric-vehicle-sales/blob/main/Images/fig_4.png" alt="fig_4"/>
 </p>
 
 ## References
